@@ -6,4 +6,5 @@ Here, you'll find a collection of projects, labs, and challenges that showcase m
 * 🤝 I'm open to collaborating on HomeLabs and Projects.
 
 ## Skills
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50"/>
+
