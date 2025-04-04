@@ -9,4 +9,4 @@ Here, you'll find a collection of projects, labs, and challenges that showcase m
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50"/>
 
 ## Badges
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=trthoennes&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=trthoennes&show_icons=true&hide_title=false&count_private=true&hide=prs)
