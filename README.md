@@ -12,3 +12,4 @@ Here, you'll find a collection of projects, labs, and challenges that showcase m
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=trthoennes&show_icons=true&hide_title=false&count_private=true&hide=prs&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dark)
+## Table of Contents
