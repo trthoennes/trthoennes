@@ -1,5 +1,5 @@
 ## Hi my name is Tyler Thoennes
-##
+## Cybersecurity Student in Progress..
 <!--
 **trthoennes/trthoennes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 rfrf
