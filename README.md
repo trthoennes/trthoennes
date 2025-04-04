@@ -13,3 +13,4 @@ Here, you'll find a collection of projects, labs, and challenges that showcase m
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dark)
 ## Table of Contents
+- [Projects](https://github.com/trthoennes/Projects)
