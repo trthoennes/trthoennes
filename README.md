@@ -4,3 +4,5 @@ Here, you'll find a collection of projects, labs, and challenges that showcase m
 * 🌍 I'm based in Blaine, MN.
 * 🧠 Always Open to Feedback
 * 🤝 I'm open to collaborating on HomeLabs and Projects.
+
+## Skills
